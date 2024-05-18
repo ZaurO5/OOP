@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\OOP\Invoice\bin\Debug\net8.0\Invoice.exe
+C:\Users\User\source\repos\OOP\Invoice\bin\Debug\net8.0\Invoice.deps.json
+C:\Users\User\source\repos\OOP\Invoice\bin\Debug\net8.0\Invoice.runtimeconfig.json
+C:\Users\User\source\repos\OOP\Invoice\bin\Debug\net8.0\Invoice.dll
+C:\Users\User\source\repos\OOP\Invoice\bin\Debug\net8.0\Invoice.pdb
+C:\Users\User\source\repos\OOP\Invoice\obj\Debug\net8.0\Invoice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\OOP\Invoice\obj\Debug\net8.0\Invoice.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\OOP\Invoice\obj\Debug\net8.0\Invoice.AssemblyInfo.cs
+C:\Users\User\source\repos\OOP\Invoice\obj\Debug\net8.0\Invoice.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\OOP\Invoice\obj\Debug\net8.0\Invoice.dll
+C:\Users\User\source\repos\OOP\Invoice\obj\Debug\net8.0\refint\Invoice.dll
+C:\Users\User\source\repos\OOP\Invoice\obj\Debug\net8.0\Invoice.pdb
+C:\Users\User\source\repos\OOP\Invoice\obj\Debug\net8.0\Invoice.genruntimeconfig.cache
+C:\Users\User\source\repos\OOP\Invoice\obj\Debug\net8.0\ref\Invoice.dll
